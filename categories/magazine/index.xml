@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Magazine on My New Hugo Site</title>
-    <link>https://example.org/categories/magazine/</link>
-    <description>Recent content in Magazine on My New Hugo Site</description>
+    <title>Magazine on Nico Stuart</title>
+    <link>https://nicostuart.net/categories/magazine/</link>
+    <description>Recent content in Magazine on Nico Stuart</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jul 2025 21:13:07 -0400</lastBuildDate>
-    <atom:link href="https://example.org/categories/magazine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nicostuart.net/categories/magazine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Published in WUSSY vol. 3 - The Sex Issue</title>
-      <link>https://example.org/posts/wussy/</link>
+      <link>https://nicostuart.net/posts/wussy/</link>
       <pubDate>Tue, 01 Jul 2025 21:13:07 -0400</pubDate>
-      <guid>https://example.org/posts/wussy/</guid>
+      <guid>https://nicostuart.net/posts/wussy/</guid>
       <description>&lt;p&gt;My short play &amp;lsquo;Headless Jerk&amp;rsquo; was published in WUSSY mag&lt;/p&gt;</description>
     </item>
     <item>
       <title>Male Muse - Pulp: vol. 6</title>
-      <link>https://example.org/posts/male-muse/</link>
+      <link>https://nicostuart.net/posts/male-muse/</link>
       <pubDate>Sun, 01 Jun 2025 21:06:38 -0400</pubDate>
-      <guid>https://example.org/posts/male-muse/</guid>
+      <guid>https://nicostuart.net/posts/male-muse/</guid>
       <description>&lt;p&gt;My poem &amp;lsquo;you asked me if i practice magic&amp;rsquo; was published in Pulp vol. 6&lt;/p&gt;</description>
     </item>
   </channel>
