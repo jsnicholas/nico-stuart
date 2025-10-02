@@ -374,3 +374,12 @@ to {
 .md\:w-1\/2 {
     width: 50%}
 }
+.disabled a, .active a{
+color:#000;
+}
+ul{
+text-align:center;
+}
+ul li{
+display:inline-block;
+}
